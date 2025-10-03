@@ -10,4 +10,4 @@ Currently, I've focused on exploring possibilities that comes with gen AI, also 
 
 </p>
 <p align="center"> You can also check my <a href="https://www.linkedin.com/in/rola-wojciech/">LinkedIn profile</a> <br>
-If you want to follow my thoughts vist <a href="https://www.wojciechrola.com">my blog.</a>  </p>
+If you want to follow my thoughts vist <a href="https://wojciechrola.com">my blog.</a>  </p>
