@@ -9,4 +9,4 @@ I'm fascinate by possibilities which gives you technology in boosting personal e
 Currently, I've focused on exploring possibilities that comes with gen AI,<br> also taking heavy interest in domain-driven-development and devops domain 🚀.
 
 </p>
-If you want to follow my thoughts vist <a href="https://wojciechrola.com">my blog.</a>  </p>
+<p align="center" > If you want to follow my thoughts vist <a href="https://wojciechrola.com">my blog.</a>  </p>
